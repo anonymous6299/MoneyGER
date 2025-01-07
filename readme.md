@@ -17,3 +17,7 @@ PhP and Bootstrap
 ## Feedback
 If you like this project, feel free to give it a star!
 
+
+---
+Start tracking your spendings with MoneyGER today and manage them effortlessly!
+
