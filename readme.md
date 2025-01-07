@@ -15,5 +15,5 @@ PhP and Bootstrap
 - **Toast Messages**: Instant feedback is provided through toast notifications for actions like adding, updating, or deleting records.
 
 ## Feedback
-If you like this project, feel free to give it a star!.
+If you like this project, feel free to give it a star!
 
